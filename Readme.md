@@ -77,6 +77,10 @@ python PDF.py
 
 ---
 
+## Comentarios
+
+El programa principal es "PDF.PY" los demás son los que se utilizaron para el momento de crear una interfaz mucho más completa al usuario, que fue todo lo de shopify, flask, ngrok, etc. Pero para motivos del parcial 1 de la clase, solo enfocarse en el readme.md y el pdf.py. La pagina web de la empresa en la que se trabajo lo de la interfaz se encuentra en este link "https://calypsotex.com/pages/calculadora?_pos=1&_psq=calc&_ss=e&_v=1.0"
+
 ## Autor
 
 Pedro Pablo Carrillo
